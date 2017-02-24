@@ -8,3 +8,6 @@ A list of Postgis resources
 ## Posts and articles
 * [Horizontally scale your Postgres database](https://www.citusdata.com/blog/2017/02/16/citus-61-released/)
 * [PostgreSQL text search in Django](http://www.mattlayman.com/2017/postgres-search-django.html)
+
+## Blogs
+* [Bruce Momjian](http://momjian.us/main/blogs/pgblog/2017.html)
