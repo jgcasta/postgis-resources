@@ -7,6 +7,7 @@ A list of Postgis resources
 
 ## Posts and articles
 * [Horizontally scale your Postgres database](https://www.citusdata.com/blog/2017/02/16/citus-61-released/)
+[Logging transactions that dropped tables](https://blog.hagander.net/logging-transactions-that-dropped-tables-236/)
 * [PostgreSQL text search in Django](http://www.mattlayman.com/2017/postgres-search-django.html)
 
 ## Blogs
