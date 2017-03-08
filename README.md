@@ -9,6 +9,8 @@ A list of Postgis resources
 * [Generating Custom Sequences in Postgres](https://viccherubini.com/2017/02/25/generating-custom-sequences-in-postgres/)
 * [Horizontally scale your Postgres database](https://www.citusdata.com/blog/2017/02/16/citus-61-released/)
 * [Logging transactions that dropped tables](https://blog.hagander.net/logging-transactions-that-dropped-tables-236/)
+* [PostgreSQL JSON](http://www.postgresqltutorial.com/postgresql-json/)
+* [PostgreSQL hstore](http://www.postgresqltutorial.com/postgresql-hstore/)
 * [PostgreSQL text search in Django](http://www.mattlayman.com/2017/postgres-search-django.html)
 
 ## Blogs
