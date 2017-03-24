@@ -4,6 +4,7 @@ A list of Postgis resources
 * [Postgis editor](https://github.com/lukasmartinelli/postgis-editor)
 * [pgAdmin 4](https://www.pgadmin.org/docs4/dev/index.html)
 * [Node client for Postgresql](https://github.com/brianc/node-postgres)
+* [SQL made scalable for time-series data](http://www.timescaledb.com/)
 
 ## Posts and articles
 * [Generating Custom Sequences in Postgres](https://viccherubini.com/2017/02/25/generating-custom-sequences-in-postgres/)
