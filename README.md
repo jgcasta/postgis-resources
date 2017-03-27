@@ -15,6 +15,7 @@ A list of Postgis resources
 * [PostgreSQL JSON](http://www.postgresqltutorial.com/postgresql-json/)
 * [PostgreSQL hstore](http://www.postgresqltutorial.com/postgresql-hstore/)
 * [PostgreSQL text search in Django](http://www.mattlayman.com/2017/postgres-search-django.html)
+* [Tuning PostgreSQL with pgbench](https://blog.codeship.com/tuning-postgresql-with-pgbench/)
 
 ## Blogs
 * [Bruce Momjian](http://momjian.us/main/blogs/pgblog/2017.html)
