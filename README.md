@@ -10,6 +10,7 @@ A list of Postgis resources
 * [Generating Custom Sequences in Postgres](https://viccherubini.com/2017/02/25/generating-custom-sequences-in-postgres/)
 * [Horizontally scale your Postgres database](https://www.citusdata.com/blog/2017/02/16/citus-61-released/)
 * [How to deploy HA PostgreSQL cluster on Kubernetes](https://medium.com/@SergeyNuzhdin/how-to-deploy-ha-postgresql-cluster-on-kubernetes-3bf9ed60c64f#.9q87lmz1z)
+* [How we implement Disaster Recovery and High Availability with Postgres on Citus Cloud](https://www.citusdata.com/blog/2017/03/23/a-look-into-disaster-recovery-and-high-availability-and-how-they-work-with-postgres-on-citus-cloud/)
 * [JSON Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-json.html)
 * [Logging transactions that dropped tables](https://blog.hagander.net/logging-transactions-that-dropped-tables-236/)
 * [PostgreSQL JSON](http://www.postgresqltutorial.com/postgresql-json/)
