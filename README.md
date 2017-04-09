@@ -17,6 +17,7 @@ A list of Postgis resources
 * [PostgreSQL hstore](http://www.postgresqltutorial.com/postgresql-hstore/)
 * [PostgreSQL text search in Django](http://www.mattlayman.com/2017/postgres-search-django.html)
 * [Tuning PostgreSQL with pgbench](https://blog.codeship.com/tuning-postgresql-with-pgbench/)
+* [USING ROW LEVEL SECURITY WITH A DJANGO APPLICATION](http://www.pinaraf.info/2017/03/using-row-level-security-with-a-django-application/)
 
 ## Blogs
 * [Bruce Momjian](http://momjian.us/main/blogs/pgblog/2017.html)
