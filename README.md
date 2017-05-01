@@ -20,6 +20,7 @@ A list of Postgis resources
 * [Removing duplicate rows in PostgreSQL](http://www.cybertec.at/removing-duplicate-rows-in-postgresql/)
 * [Safe and unsafe operations for high volume ](http://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql#.WOvX_PGLSaq)
 * [Tuning PostgreSQL with pgbench](https://blog.codeship.com/tuning-postgresql-with-pgbench/)
+* [Using R Analytic Functions in PostGIS](http://info.crunchydata.com/blog/r-analytic-functions-in-postgis)
 * [USING ROW LEVEL SECURITY WITH A DJANGO APPLICATION](http://www.pinaraf.info/2017/03/using-row-level-security-with-a-django-application/)
 * [Using Sequences in PostgreSQL](http://www.neilconway.org/docs/sequences/)
 
