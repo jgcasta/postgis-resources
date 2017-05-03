@@ -24,6 +24,7 @@ A list of Postgis resources
 * [Using R Analytic Functions in PostGIS](http://info.crunchydata.com/blog/r-analytic-functions-in-postgis)
 * [USING ROW LEVEL SECURITY WITH A DJANGO APPLICATION](http://www.pinaraf.info/2017/03/using-row-level-security-with-a-django-application/)
 * [Using Sequences in PostgreSQL](http://www.neilconway.org/docs/sequences/)
+* [What You Need To Know About SQL's Group By](https://periscopedata.com/blog//everything-about-group-by.html)
 
 ## Blogs
 * [Bruce Momjian](http://momjian.us/main/blogs/pgblog/2017.html)
