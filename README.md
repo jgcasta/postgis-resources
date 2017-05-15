@@ -29,4 +29,5 @@ A list of Postgis resources
 * [What You Need To Know About SQL's Group By](https://periscopedata.com/blog//everything-about-group-by.html)
 
 ## Blogs
+* [Alexander Korotov](http://akorotkov.github.io/)
 * [Bruce Momjian](http://momjian.us/main/blogs/pgblog/2017.html)
