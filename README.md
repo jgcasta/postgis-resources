@@ -9,6 +9,7 @@ A list of Postgis resources
 
 ## Posts and articles
 * [Creating a PostgreSQL Container with default User and Password](https://medium.com/@beld_pro/quick-tip-creating-a-postgresql-container-with-default-user-and-password-8bb2adb82342)
+* [Drawing Graphs Directly in Psql](http://akorotkov.github.io/blog/2016/06/09/psql-graph/)
 * [Generating Custom Sequences in Postgres](https://viccherubini.com/2017/02/25/generating-custom-sequences-in-postgres/)
 * [Horizontally scale your Postgres database](https://www.citusdata.com/blog/2017/02/16/citus-61-released/)
 * [How to deploy HA PostgreSQL cluster on Kubernetes](https://medium.com/@SergeyNuzhdin/how-to-deploy-ha-postgresql-cluster-on-kubernetes-3bf9ed60c64f#.9q87lmz1z)
