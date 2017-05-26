@@ -22,7 +22,8 @@ A list of Postgis resources
 * [Real time integration Kafka-Postgresql](https://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Removing duplicate rows in PostgreSQL](http://www.cybertec.at/removing-duplicate-rows-in-postgresql/)
 * [Safe and unsafe operations for high volume ](http://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql#.WOvX_PGLSaq)
-* [Tuning PostgreSQL with pgbench](https://blog.codeship.com/tuning-postgresql-with-pgbench/)
+* [Tuning PostgreSQL with pgbench](https://blog.codeship.com/tuning-postgresql-with-pgbench/
+* [Use SQL to map users, roles, and grants from Oracle to PostgreSQL](https://aws.amazon.com/es/blogs/database/use-sql-to-map-users-roles-and-grants-from-oracle-to-postgresql/)
 * [Using R Analytic Functions in PostGIS](http://info.crunchydata.com/blog/r-analytic-functions-in-postgis)
 * [USING ROW LEVEL SECURITY WITH A DJANGO APPLICATION](http://www.pinaraf.info/2017/03/using-row-level-security-with-a-django-application/)
 * [Using Sequences in PostgreSQL](http://www.neilconway.org/docs/sequences/)
