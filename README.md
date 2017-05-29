@@ -21,6 +21,7 @@ A list of Postgis resources
 * [PostgreSQL JSON](http://www.postgresqltutorial.com/postgresql-json/)
 * [PostgreSQL hstore](http://www.postgresqltutorial.com/postgresql-hstore/)
 * [PostgreSQL text search in Django](http://www.mattlayman.com/2017/postgres-search-django.html)
+* [Postgres Themis plugin](https://github.com/cossacklabs/pg_themis)
 * [PostgREST API Starter Kit](https://github.com/subzerocloud/postgrest-starter-kit)
 * [Real time integration Kafka-Postgresql](https://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Removing duplicate rows in PostgreSQL](http://www.cybertec.at/removing-duplicate-rows-in-postgresql/)
