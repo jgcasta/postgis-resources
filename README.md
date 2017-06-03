@@ -18,6 +18,7 @@ A list of Postgis resources
 * [JSON Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-json.html)
 * [Logging transactions that dropped tables](https://blog.hagander.net/logging-transactions-that-dropped-tables-236/)
 * [Postgres at Scale: Query Performance and Autovacuuming for Large Tables](https://medium.com/contactually-engineering/postgres-at-scale-query-performance-and-autovacuuming-for-large-tables-d7e8ad40b16b)
+* [Postgres Full-Text Search With Django](http://blog.lotech.org/postgres-full-text-search-with-django.html)
 * [PostgreSQL JSON](http://www.postgresqltutorial.com/postgresql-json/)
 * [PostgreSQL hstore](http://www.postgresqltutorial.com/postgresql-hstore/)
 * [PostgreSQL text search in Django](http://www.mattlayman.com/2017/postgres-search-django.html)
