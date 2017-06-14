@@ -34,6 +34,7 @@ A list of Postgis resources
 * [USING ROW LEVEL SECURITY WITH A DJANGO APPLICATION](http://www.pinaraf.info/2017/03/using-row-level-security-with-a-django-application/)
 * [Using Sequences in PostgreSQL](http://www.neilconway.org/docs/sequences/)
 * [What You Need To Know About SQL's Group By](https://periscopedata.com/blog//everything-about-group-by.html)
+* [Working With Time in Postgres](http://www.craigkerstiens.com/2017/06/08/working-with-time-in-postgres/)
 
 ## Blogs
 * [Alexander Korotov](http://akorotkov.github.io/)
