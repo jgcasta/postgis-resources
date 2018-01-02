@@ -18,6 +18,7 @@ A list of Postgis resources
 * [jpgAgent - A PostgreSQL job scheduler](https://github.com/GoSimpleLLC/jpgAgent)
 * [JSON Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-json.html)
 * [Logging transactions that dropped tables](https://blog.hagander.net/logging-transactions-that-dropped-tables-236/)
+* [Performing Parallel Queries and Phrase Searching with Amazon RDS for PostgreSQL 9.6.1](https://aws.amazon.com/es/blogs/database/performing-parallel-queries-and-phrase-searching-with-amazon-rds-for-postgresql-9-6-1/)
 * [PostgreSQL & tablespaces – it’s not so scary](http://www.cybertec.at/postgresql-tablespaces-its-not-so-scary/)
 * [Postgres at Scale: Query Performance and Autovacuuming for Large Tables](https://medium.com/contactually-engineering/postgres-at-scale-query-performance-and-autovacuuming-for-large-tables-d7e8ad40b16b)
 * [Postgres Full-Text Search With Django](http://blog.lotech.org/postgres-full-text-search-with-django.html)
