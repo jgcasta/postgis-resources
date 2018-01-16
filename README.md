@@ -18,6 +18,7 @@ A list of Postgis resources
 * [How we implement Disaster Recovery and High Availability with Postgres on Citus Cloud](https://www.citusdata.com/blog/2017/03/23/a-look-into-disaster-recovery-and-high-availability-and-how-they-work-with-postgres-on-citus-cloud/)
 * [jpgAgent - A PostgreSQL job scheduler](https://github.com/GoSimpleLLC/jpgAgent)
 * [JSON Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-json.html)
+* [Key metrics for PostgreSQL monitoring](https://www.datadoghq.com/blog/postgresql-monitoring/)
 * [Logging transactions that dropped tables](https://blog.hagander.net/logging-transactions-that-dropped-tables-236/)
 * [Performing Parallel Queries and Phrase Searching with Amazon RDS for PostgreSQL 9.6.1](https://aws.amazon.com/es/blogs/database/performing-parallel-queries-and-phrase-searching-with-amazon-rds-for-postgresql-9-6-1/)
 * [PostgreSQL & tablespaces – it’s not so scary](http://www.cybertec.at/postgresql-tablespaces-its-not-so-scary/)
