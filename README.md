@@ -27,6 +27,7 @@ A list of Postgis resources
 * [Postgres at Scale: Query Performance and Autovacuuming for Large Tables](https://medium.com/contactually-engineering/postgres-at-scale-query-performance-and-autovacuuming-for-large-tables-d7e8ad40b16b)
 * [Postgres Full-Text Search With Django](http://blog.lotech.org/postgres-full-text-search-with-django.html)
 * [PostgreSQL JSON](http://www.postgresqltutorial.com/postgresql-json/)
+* [PostgreSQL Configuration for Humans](https://www.youtube.com/watch?v=IFIXpm73qtk)
 * [PostgreSQL hstore](http://www.postgresqltutorial.com/postgresql-hstore/)
 * [PostgreSQL text search in Django](http://www.mattlayman.com/2017/postgres-search-django.html)
 * [Postgres Themis plugin](https://github.com/cossacklabs/pg_themis)
