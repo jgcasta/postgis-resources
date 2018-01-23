@@ -15,6 +15,7 @@ A list of Postgis resources
 * [Generating Custom Sequences in Postgres](https://viccherubini.com/2017/02/25/generating-custom-sequences-in-postgres/)
 * [Implementing State Machines in PostgreSQL](http://felixge.de/2017/07/27/implementing-state-machines-in-postgresql.html)
 * [Fast contour lines using plain PostGIS](https://abelvm.github.io/sql/contour/)
+* [Geographica lanza una nueva versión de su PostGIS dockerizada: Breezy Badger](https://geographica.gs/es/blog/breezy-badger-nueva-version/)
 * [Horizontally scale your Postgres database](https://www.citusdata.com/blog/2017/02/16/citus-61-released/)
 * [How to deploy HA PostgreSQL cluster on Kubernetes](https://medium.com/@SergeyNuzhdin/how-to-deploy-ha-postgresql-cluster-on-kubernetes-3bf9ed60c64f#.9q87lmz1z)
 * [How we implement Disaster Recovery and High Availability with Postgres on Citus Cloud](https://www.citusdata.com/blog/2017/03/23/a-look-into-disaster-recovery-and-high-availability-and-how-they-work-with-postgres-on-citus-cloud/)
