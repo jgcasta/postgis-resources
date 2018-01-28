@@ -47,7 +47,7 @@ A list of Postgis resources
 * [Working With Time in Postgres](http://www.craigkerstiens.com/2017/06/08/working-with-time-in-postgres/)
 
 ## psql guides
-
+* [17 Practical psql Commands That You Don’t Want To Miss](http://www.postgresqltutorial.com/psql-commands/)
 * [Psql guide](http://postgresguide.com/utilities/psql.html)
 
 ## Blogs
