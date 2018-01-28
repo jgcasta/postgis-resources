@@ -46,6 +46,10 @@ A list of Postgis resources
 * [What You Need To Know About SQL's Group By](https://periscopedata.com/blog//everything-about-group-by.html)
 * [Working With Time in Postgres](http://www.craigkerstiens.com/2017/06/08/working-with-time-in-postgres/)
 
+## psql guides
+
+* [Psql guide](http://postgresguide.com/utilities/psql.html)
+
 ## Blogs
 * [Alexander Korotov](http://akorotkov.github.io/)
 * [Bruce Momjian](http://momjian.us/main/blogs/pgblog/2017.html)
