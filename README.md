@@ -48,6 +48,7 @@ A list of Postgis resources
 
 ## psql guides
 * [17 Practical psql Commands That You Don’t Want To Miss](http://www.postgresqltutorial.com/psql-commands/)
+* [PostgreSQL Cheat Sheet](http://www.postgresqltutorial.com/postgresql-cheat-sheet/)
 * [Psql guide](http://postgresguide.com/utilities/psql.html)
 
 ## Blogs
