@@ -25,6 +25,7 @@ A list of Postgis resources
 * [Key metrics for PostgreSQL monitoring](https://www.datadoghq.com/blog/postgresql-monitoring/)
 * [Logging transactions that dropped tables](https://blog.hagander.net/logging-transactions-that-dropped-tables-236/)
 * [Performing Parallel Queries and Phrase Searching with Amazon RDS for PostgreSQL 9.6.1](https://aws.amazon.com/es/blogs/database/performing-parallel-queries-and-phrase-searching-with-amazon-rds-for-postgresql-9-6-1/)
+* [PostgreSQL 10: Partitions of... partitions!](https://joaodlf.com/postgresql-10-partitions-of-partitions.html)
 * [PostgreSQL & tablespaces – it’s not so scary](http://www.cybertec.at/postgresql-tablespaces-its-not-so-scary/)
 * [Postgres at Scale: Query Performance and Autovacuuming for Large Tables](https://medium.com/contactually-engineering/postgres-at-scale-query-performance-and-autovacuuming-for-large-tables-d7e8ad40b16b)
 * [Postgres Full-Text Search With Django](http://blog.lotech.org/postgres-full-text-search-with-django.html)
