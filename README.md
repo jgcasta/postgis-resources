@@ -40,6 +40,7 @@ A list of Postgis resources
 * [Real time integration Kafka-Postgresql](https://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Removing duplicate rows in PostgreSQL](http://www.cybertec.at/removing-duplicate-rows-in-postgresql/)
 * [Safe and unsafe operations for high volume ](http://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql#.WOvX_PGLSaq)
+* [Search and destroy duplicate rows in PostgreSQL](http://blog.theodo.fr/2018/01/search-destroy-duplicate-rows-postgresql/)
 * [Some little known PostgreSQL/PostGIS tips & tricks](https://abelvm.github.io/sql/sql-tricks/)
 * [Tuning PostgreSQL with pgbench](https://blog.codeship.com/tuning-postgresql-with-pgbench/)
 * [Use SQL to map users, roles, and grants from Oracle to PostgreSQL](https://aws.amazon.com/es/blogs/database/use-sql-to-map-users-roles-and-grants-from-oracle-to-postgresql/)
