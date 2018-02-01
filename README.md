@@ -9,6 +9,7 @@ A list of Postgis resources
 * [SQL made scalable for time-series data](http://www.timescaledb.com/)
 
 ## Posts and articles
+* [AVOIDING UNNECESSARY STORED PROCEDURE CALLS IN POSTGRESQL](https://www.cybertec-postgresql.com/en/avoiding-unnecessary-stored-procedure-calls-in-postgresql/)
 * [Collecting metrics with PostgreSQL monitoring tools](https://www.datadoghq.com/blog/postgresql-monitoring-tools/)
 * [Creating a PostgreSQL Container with default User and Password](https://medium.com/@beld_pro/quick-tip-creating-a-postgresql-container-with-default-user-and-password-8bb2adb82342)
 * [Cybertec PostgreSQL Configurator](http://pgconfigurator.cybertec.at/)
