@@ -26,6 +26,7 @@ A list of Postgis resources
 * [JSON Functions and Operators](https://www.postgresql.org/docs/9.5/static/functions-json.html)
 * [Key metrics for PostgreSQL monitoring](https://www.datadoghq.com/blog/postgresql-monitoring/)
 * [Logging transactions that dropped tables](https://blog.hagander.net/logging-transactions-that-dropped-tables-236/)
+* [Partitioning in PostgreSQL Rotating your API request logs table](https://engineering.semantics3.com/partitioning-in-postgresql-161e52c367ba)
 * [Performing Parallel Queries and Phrase Searching with Amazon RDS for PostgreSQL 9.6.1](https://aws.amazon.com/es/blogs/database/performing-parallel-queries-and-phrase-searching-with-amazon-rds-for-postgresql-9-6-1/)
 * [PostgreSQL 10: Partitions of... partitions!](https://joaodlf.com/postgresql-10-partitions-of-partitions.html)
 * [PostgreSQL & tablespaces – it’s not so scary](http://www.cybertec.at/postgresql-tablespaces-its-not-so-scary/)
