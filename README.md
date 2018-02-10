@@ -15,6 +15,7 @@ A list of Postgis resources
 * [Creating a PostgreSQL Container with default User and Password](https://medium.com/@beld_pro/quick-tip-creating-a-postgresql-container-with-default-user-and-password-8bb2adb82342)
 * [Cybertec PostgreSQL Configurator](http://pgconfigurator.cybertec.at/)
 * [Easy PostgreSQL 10 and pgAdmin 4 Setup with Docker](http://info.crunchydata.com/blog/easy-postgresql-10-and-pgadmin-4-setup-with-docker)
+* [Exporting a Hierarchy in JSON: with recursive queries](http://tapoueh.org/blog/2018/01/exporting-a-hierarchy-in-json-with-recursive-queries/)
 * [Drawing Graphs Directly in Psql](http://akorotkov.github.io/blog/2016/06/09/psql-graph/)
 * [Generating Custom Sequences in Postgres](https://viccherubini.com/2017/02/25/generating-custom-sequences-in-postgres/)
 * [Implementing State Machines in PostgreSQL](http://felixge.de/2017/07/27/implementing-state-machines-in-postgresql.html)
