@@ -12,6 +12,7 @@ A list of Postgis resources
 * [AVOIDING UNNECESSARY STORED PROCEDURE CALLS IN POSTGRESQL](https://www.cybertec-postgresql.com/en/avoiding-unnecessary-stored-procedure-calls-in-postgresql/)
 * [Citus and pg_partman: Creating a scalable time series database on Postgres](https://www.citusdata.com/blog/2018/01/24/citus-and-pg-partman-creating-a-scalable-time-series-database-on-PostgreSQL/)
 * [Collecting metrics with PostgreSQL monitoring tools](https://www.datadoghq.com/blog/postgresql-monitoring-tools/)
+* [Creating Fast, Lightweight Testing Databases in Docker](https://medium.com/fintech-studios-engineering/creating-fast-lightweight-testing-databases-in-docker-2a8164d2f519)
 * [Creating a PostgreSQL Container with default User and Password](https://medium.com/@beld_pro/quick-tip-creating-a-postgresql-container-with-default-user-and-password-8bb2adb82342)
 * [Cybertec PostgreSQL Configurator](http://pgconfigurator.cybertec.at/)
 * [Easy PostgreSQL 10 and pgAdmin 4 Setup with Docker](http://info.crunchydata.com/blog/easy-postgresql-10-and-pgadmin-4-setup-with-docker)
