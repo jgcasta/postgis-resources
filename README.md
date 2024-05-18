@@ -1,5 +1,5 @@
 # postgis-resources
-A list of Postgis resources
+A list of Postgis resources:
 
 * [Cross-platform client for PostgreSQL databases](https://sosedoff.github.io/pgweb/)
 * [Graphile GraphQL](https://www.graphile.org/)
