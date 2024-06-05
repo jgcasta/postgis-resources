@@ -40,7 +40,7 @@ A list of Postgis resources:
 * [PostgreSQL hstore](http://www.postgresqltutorial.com/postgresql-hstore/)
 * [PostgreSQL text search in Django](http://www.mattlayman.com/2017/postgres-search-django.html)
 * [Postgres Themis plugin](https://github.com/cossacklabs/pg_themis)
-* [PostgREST API Starter Kit](https://github.com/subzerocloud/postgrest-starter-kit)
+* [PostgREST API Starter Kit](https://github.com/subzerocloud/postgrest-starter-kit).
 * [PostgreSQL Configuration for Humans](https://www.youtube.com/watch?v=IFIXpm73qtk)
 * [Queryplan visualization](http://tatiyants.com/postgres-query-plan-visualization/?utm_content=buffer6d480&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Real time integration Kafka-Postgresql](https://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
