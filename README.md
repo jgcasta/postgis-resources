@@ -9,7 +9,8 @@ A list of Postgis resources :
 * [SQL made scalable for time-series data](http://www.timescaledb.com/)
 
 ## Posts and articles
-* [AVOIDING UNNECESSARY STORED PROCEDURE CALLS IN POSTGRESQL](https://www.cybertec-postgresql.com/en/avoiding-unnecessary-stored-procedure-calls-in-postgresql/)
+* [AVOIDING UNNECESSARY STORED PROCEDURE CALLS
+* IN POSTGRESQL](https://www.cybertec-postgresql.com/en/avoiding-unnecessary-stored-procedure-calls-in-postgresql/)
 * [Citus and pg_partman: Creating a scalable time series database on Postgres](https://www.citusdata.com/blog/2018/01/24/citus-and-pg-partman-creating-a-scalable-time-series-database-on-PostgreSQL/)
 * [Collecting metrics with PostgreSQL monitoring tools](https://www.datadoghq.com/blog/postgresql-monitoring-tools/)
 * [Creating Fast, Lightweight Testing Databases in Docker](https://medium.com/fintech-studios-engineering/creating-fast-lightweight-testing-databases-in-docker-2a8164d2f519)
